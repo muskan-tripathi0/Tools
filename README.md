@@ -66,7 +66,7 @@
       </div>
     </div>
     <div class="text">
-      <p>ffuy fguy fuytgg fy hgjgyuty  fdfghfvnjuhkigd dfvbv cfdsw, iuoib stry  sdghmkhgulibvrtrcewffgjlkiuigh fg jdj dsetruy fdn jgfjuioiophbgfgcrefkj ftrdstrfyughvn dfxfggfyuhkjknjndr dsyiiufdsrh dtdetkjiloigd rsrrtfujik fdsgtfj  vngdrd nvhhygjuh bb.</p>
+      <p>the delicious cup cake for everyone </p>
     </div>
   </div>
   <script src="main.js"></script>
